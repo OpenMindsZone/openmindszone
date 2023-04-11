@@ -1,6 +1,7 @@
 ### OpenMinds Zone  👋
 
-Profile
+## Open minds - is good to have one. :-)
+
 <!--
 **OpenMindsZone/openmindszone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
